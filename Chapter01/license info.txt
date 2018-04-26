@@ -1,0 +1,7 @@
+catSprites.png image created from images provided by:
+https://opengameart.org/content/cat-dog-free-sprites
+Last accessed: April 1, 2017
+
+Window.png and Button.png provided by:
+https://opengameart.org/content/free-game-gui
+Last accessed: April 1, 2017
