@@ -35,3 +35,7 @@ Basic knowledge of Unity and C# programming is recommended
 * [Getting Started with Unity 2018 - Third Edition](https://www.packtpub.com/game-development/getting-started-unity-2018-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788830102)
 
 * [Mastering Unity 2017 Game Development with C# - Second Edition](https://www.packtpub.com/web-development/mastering-unity-2017-game-development-c-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788479837)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787125520">https://packt.link/free-ebook/9781787125520 </a> </p>
